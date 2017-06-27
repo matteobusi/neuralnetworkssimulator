@@ -1,0 +1,4 @@
+A neural network with three layers was used. The input layer have 10 units, the hidden 20, and the output 2.
+Validation was a combination of cross-validation (for model selection) and then simple testing with training set (75%)
+and test set (25%).
+
